@@ -2,7 +2,6 @@ import React from 'react';
 import { createStore } from 'redux';
 import { connect } from 'react-redux'
 
-import { initialState } from './reducers/carReducer'
 import { carReducer } from './reducers/carReducer';
 import Header from './components/Header';
 import AddedFeatures from './components/AddedFeatures';
