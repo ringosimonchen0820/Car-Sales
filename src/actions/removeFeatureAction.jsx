@@ -1,3 +1,3 @@
 export const removeFeature = removeFeature => {
-    return { type: 'REMOVE-FEATURE', payload: removeFeature};
+    return { type: 'REMOVE-FEATURE', payload: removeFeature };
 }
